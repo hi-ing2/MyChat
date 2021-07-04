@@ -1,0 +1,25 @@
+c:\users\yikc-19009\documents\visual studio 2013\Projects\MyClient\bin\Debug\MyClient.exe.config
+c:\users\yikc-19009\documents\visual studio 2013\Projects\MyClient\bin\Debug\MyClient.exe
+c:\users\yikc-19009\documents\visual studio 2013\Projects\MyClient\bin\Debug\MyClient.pdb
+c:\users\yikc-19009\documents\visual studio 2013\Projects\MyClient\obj\Debug\MyClient.exe
+c:\users\yikc-19009\documents\visual studio 2013\Projects\MyClient\obj\Debug\MyClient.pdb
+C:\Users\YIKC-19009\Documents\Visual Studio 2013\Projects\MyClient\obj\Debug\MyClient.csprojResolveAssemblyReference.cache
+C:\Users\YIKC-19009\Desktop\Tcp 부터 마스터\MyClient\bin\Debug\MyClient.exe.config
+C:\Users\YIKC-19009\Desktop\Tcp 부터 마스터\MyClient\obj\Debug\MyClient.exe
+C:\Users\YIKC-19009\Desktop\Tcp 부터 마스터\MyClient\obj\Debug\MyClient.pdb
+C:\Users\YIKC-19009\Desktop\Tcp 부터 마스터\TCP\비동기클라\MyClient\bin\Debug\MyClient.exe.config
+C:\Users\YIKC-19009\Desktop\Tcp 부터 마스터\TCP\비동기클라\MyClient\obj\Debug\MyClient.exe
+C:\Users\YIKC-19009\Desktop\Tcp 부터 마스터\TCP\비동기클라\MyClient\obj\Debug\MyClient.pdb
+C:\Users\YIKC-19009\Desktop\Tcp 부터 마스터\TCP\동기클라\MyClient\bin\Debug\MyClient.exe.config
+C:\Users\YIKC-19009\Desktop\Tcp 부터 마스터\TCP\동기클라\MyClient\obj\Debug\MyClient.exe
+C:\Users\YIKC-19009\Desktop\Tcp 부터 마스터\TCP\동기클라\MyClient\obj\Debug\MyClient.pdb
+C:\Users\YIKC-19009\Desktop\Tcp 부터 마스터\TCP\동기클라\MyClient\bin\Debug\MyClient.exe
+C:\Users\YIKC-19009\Desktop\Tcp 부터 마스터\TCP\동기클라\MyClient\bin\Debug\MyClient.pdb
+C:\Users\YIKC-19009\Desktop\Tcp 부터 마스터\TCP\동기클라\MyClient\obj\Debug\MyClient.csprojResolveAssemblyReference.cache
+C:\Users\SFC202003005\Desktop\동기서버클라\MyClient\bin\Debug\MyClient.exe.config
+C:\Users\SFC202003005\Desktop\동기서버클라\MyClient\bin\Debug\MyClient.exe
+C:\Users\SFC202003005\Desktop\동기서버클라\MyClient\bin\Debug\MyClient.pdb
+C:\Users\SFC202003005\Desktop\동기서버클라\MyClient\obj\Debug\MyClient.csprojAssemblyReference.cache
+C:\Users\SFC202003005\Desktop\동기서버클라\MyClient\obj\Debug\MyClient.csproj.CoreCompileInputs.cache
+C:\Users\SFC202003005\Desktop\동기서버클라\MyClient\obj\Debug\MyClient.exe
+C:\Users\SFC202003005\Desktop\동기서버클라\MyClient\obj\Debug\MyClient.pdb

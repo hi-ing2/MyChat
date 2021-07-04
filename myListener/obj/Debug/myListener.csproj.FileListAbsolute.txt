@@ -1,0 +1,22 @@
+c:\users\yikc-19009\documents\visual studio 2013\Projects\myListener\bin\Debug\myListener.exe.config
+c:\users\yikc-19009\documents\visual studio 2013\Projects\myListener\bin\Debug\myListener.exe
+c:\users\yikc-19009\documents\visual studio 2013\Projects\myListener\bin\Debug\myListener.pdb
+c:\users\yikc-19009\documents\visual studio 2013\Projects\myListener\obj\Debug\myListener.csprojResolveAssemblyReference.cache
+c:\users\yikc-19009\documents\visual studio 2013\Projects\myListener\obj\Debug\myListener.exe
+c:\users\yikc-19009\documents\visual studio 2013\Projects\myListener\obj\Debug\myListener.pdb
+C:\Users\YIKC-19009\Desktop\Tcp 부터 마스터\myListener\bin\Debug\myListener.exe.config
+C:\Users\YIKC-19009\Desktop\Tcp 부터 마스터\myListener\obj\Debug\myListener.exe
+C:\Users\YIKC-19009\Desktop\Tcp 부터 마스터\myListener\obj\Debug\myListener.pdb
+C:\Users\YIKC-19009\Desktop\Tcp 부터 마스터\TCP\동기서버\myListener\bin\Debug\myListener.exe.config
+C:\Users\YIKC-19009\Desktop\Tcp 부터 마스터\TCP\동기서버\myListener\obj\Debug\myListener.exe
+C:\Users\YIKC-19009\Desktop\Tcp 부터 마스터\TCP\동기서버\myListener\obj\Debug\myListener.pdb
+C:\Users\YIKC-19009\Desktop\Tcp 부터 마스터\TCP\동기서버\myListener\bin\Debug\myListener.exe
+C:\Users\YIKC-19009\Desktop\Tcp 부터 마스터\TCP\동기서버\myListener\bin\Debug\myListener.pdb
+C:\Users\YIKC-19009\Desktop\Tcp 부터 마스터\TCP\동기서버\myListener\obj\Debug\myListener.csprojResolveAssemblyReference.cache
+C:\Users\SFC202003005\Desktop\동기서버클라\myListener\bin\Debug\myListener.exe.config
+C:\Users\SFC202003005\Desktop\동기서버클라\myListener\bin\Debug\myListener.exe
+C:\Users\SFC202003005\Desktop\동기서버클라\myListener\bin\Debug\myListener.pdb
+C:\Users\SFC202003005\Desktop\동기서버클라\myListener\obj\Debug\myListener.csproj.CoreCompileInputs.cache
+C:\Users\SFC202003005\Desktop\동기서버클라\myListener\obj\Debug\myListener.exe
+C:\Users\SFC202003005\Desktop\동기서버클라\myListener\obj\Debug\myListener.pdb
+C:\Users\SFC202003005\Desktop\동기서버클라\myListener\obj\Debug\myListener.csprojAssemblyReference.cache
